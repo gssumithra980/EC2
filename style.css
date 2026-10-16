@@ -1,0 +1,4 @@
+cat > style.css <<'EOF'
+body { font-family: Arial; text-align: center; background: #f0f8ff; padding: 50px; }
+h1 { color: #2c3e50; }
+EOF
